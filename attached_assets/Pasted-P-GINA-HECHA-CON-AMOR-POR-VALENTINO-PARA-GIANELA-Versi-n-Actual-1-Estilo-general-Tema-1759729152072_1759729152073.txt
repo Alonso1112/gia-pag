@@ -1,0 +1,101 @@
+PÁGINA “HECHA CON AMOR POR VALENTINO PARA GIANELA” — Versión Actual
+
+⸻
+
+💕 1. Estilo general
+	•	Tema cute pero profesional (rosa pastel + blanco, con toques suaves de dorado o lila).
+	•	Tipografía redondeada, limpia y dulce (tipo Poppins, Quicksand o Nunito).
+	•	Transiciones y animaciones suaves (brillos leves, corazoncitos flotando).
+	•	Diseño responsive, adaptable a celular y laptop.
+	•	Cursor o toque con efecto de brillitos o corazones al moverlo.
+
+⸻
+
+🐱 2. Pantalla de entrada
+	•	Pantalla inicial tipo “login” como la de Instagram.
+	•	En el centro: animación de gatito tierno en 8 bits, con corazones flotando.
+	•	Fondo con brillos suaves.
+	•	Texto elegante:
+Bienvenida a tu espacio creativo, Gianela 💕
+	•	Botón con transición brillante: “Entrar a mi espacio”.
+
+(Nada forzado ni rápido, una entrada relajante y adorable.)
+
+⸻
+
+💌 3. Ventanita de frases románticas
+	•	Cada 3 minutos aparece un emoji 💌 flotante (una carta con corazón).
+	•	Si lo toca, se abre una mini ventanita con una frase corta, motivadora y romántica.
+Ejemplo:
+“Eres mi motivo y mi calma 💞”
+“Brillas incluso cuando no te das cuenta ✨”
+	•	Cierra suavemente y desaparece hasta la siguiente aparición.
+
+(No molesta, solo un recordatorio bonito de amor y ánimo.)
+
+⸻
+
+📋 4. Panel principal (su espacio personal)
+
+Una vez entra, aparece su “dashboard” con secciones bien organizadas:
+
+🌼 a) Mi espacio creativo (Mini Canva Board)
+	•	Mural digital donde guarda links de sus proyectos de Canva.
+	•	Miniaturas o imágenes de referencia.
+	•	Campo de notas al costado.
+	•	Todo se guarda localmente en su navegador (sin login adicional).
+
+⸻
+
+🌸 b) Plantillas favoritas
+	•	Galería visual con las plantillas que más usa en Canva.
+	•	Cada tarjeta muestra una miniatura, link directo y notas.
+	•	Ordenadas por color o tema.
+
+⸻
+
+🎨 c) Inspiración de color (Paleta del día)
+	•	Cada día aparece una paleta suave de colores profesionales:
+Rosa pastel, blanco, beige, dorado, etc.
+	•	Puede copiar los códigos hex fácilmente.
+	•	Cambia automáticamente según el día o con un clic.
+
+⸻
+
+💫 d) Tu progreso creativo
+	•	Muestra cuántas ideas o diseños ha guardado.
+Ejemplo:
+“Has registrado 9 ideas 💕 sigue inspirándote.”
+“Tu creatividad florece 🌷✨”
+
+⸻
+
+📝 e) Zona de notas y organización
+	•	Espacio para anotar ideas, pendientes o recordatorios.
+	•	Se guarda automáticamente.
+	•	Opciones de organización por categoría (estudios, campañas, personales).
+
+⸻
+
+🤖 f) IA integradas gratuitas
+	•	Chat con IA gratuita (Gemini o similar) para preguntas rápidas.
+	•	Generador gratuito de imágenes (vía API libre o iframe de herramienta pública).
+	•	Generador gratuito de videos IA si hay un servicio accesible sin costo.
+
+(Todas sin necesidad de login pago ni APIs premium.)
+
+⸻
+
+🌷 5. Funciones de respaldo
+	•	Guarda automáticamente notas, progreso y chats IA en su navegador.
+	•	Opción de “descargar respaldo” en un solo clic (.txt o .json).
+
+⸻
+
+💞 6. Créditos románticos
+
+Al final del sitio, en letra elegante:
+
+Hecho con amor por Valentino 🌙 para Gianela 🌞
+
+Con un suave parpadeo o brillo dorado animado.
